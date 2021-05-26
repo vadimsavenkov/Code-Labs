@@ -111,7 +111,5 @@
 ## Create a 2D Numpy Array
 ## Accessing different elements of a Numpy Array
 ## Basic Operations
-<<<<<<< HEAD
 
-=======
->>>>>>> 47bcffc198132bdb12e098ff974965c712dd81c2
+# Simple APIs
