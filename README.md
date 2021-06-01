@@ -89,7 +89,7 @@
 ## Additional File modes
 ## Copy a File
 
-# 5.1 1D Numpy Arrays
+# 5.1.1 1D Numpy Arrays
 
 ## What is Numpy?
 ## Numpy Types
@@ -106,10 +106,18 @@
 ## Mathematical Functions
 ## Linspace
 
-# 5.2 2D Numpy Arrays
+# 5.2.2 2D Numpy Arrays
 
 ## Create a 2D Numpy Array
 ## Accessing different elements of a Numpy Array
 ## Basic Operations
 
-# Simple APIs
+# 5.3.1 Simple APIs
+
+## Speech To Text
+## Language Translator
+
+# 5.3.2 Simple APIs v2
+
+## Pandas is an API
+## REST APIs Basics
